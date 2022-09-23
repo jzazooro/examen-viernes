@@ -33,5 +33,8 @@ def main():
     print("la lista resultante al cuarto enunciado es: ", d)
     e=list(range(0, 50, 5))
     print("la lista resultante al quinto enunciado es: ", e)
+
+    print("Ejercicio 4: ")
+    
 if __name__=='__main__':
     main()
