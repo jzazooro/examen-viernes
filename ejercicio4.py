@@ -10,4 +10,4 @@ def tabla():
     for i in range(0, f):
         print("")
         for e in range(0, c):
-            print(" CR7 ", end='')
+            print(" HOLA ", end='')
