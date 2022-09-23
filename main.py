@@ -1,6 +1,5 @@
 from clases.ejercicio1 import sumalistas
 from clases.ejercicio2 import
-from clases.ejercicio3 import
 from clases.ejercicio4 import
 
 listauno=[1, 1, 1]
@@ -35,6 +34,6 @@ def main():
     print("la lista resultante al quinto enunciado es: ", e)
 
     print("Ejercicio 4: ")
-    
+
 if __name__=='__main__':
     main()
