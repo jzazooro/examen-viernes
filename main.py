@@ -1,6 +1,5 @@
 from clases.ejercicio1 import sumalistas
 from clases.ejercicio2 import contarelementos
-from clases.ejercicio4 import
 
 listauno=[1, 1, 1]
 listados=[2, 2, 2]
