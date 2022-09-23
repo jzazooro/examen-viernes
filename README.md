@@ -11,6 +11,7 @@ El ejercicio extra lo he resuelto en la pagina web y adjunto captura de pantalla
 El codigo creado para realizar este examen es el siguiente: 
 
 ### main:
+
 ```
 from lanzador import main
 if __name__=='__main__':
@@ -18,6 +19,7 @@ if __name__=='__main__':
 ```
 
 ### Lanzador
+
 ```
 from ejercicio1 import sumalistas
 from ejercicio2 import contarelementos
@@ -58,3 +60,30 @@ def main():
     print("Ejercicio 4: ")
     tabla()
 ```
+
+### Ejercicio 1:
+
+```
+def sumalistas(lista):
+    sumadenotas=sum(lista)
+    lista.append(sumadenotas)
+```
+
+### Ejercicio 2: 
+
+```
+
+```
+
+### Ejercicio 3: 
+
+```
+
+```
+
+### Ejercicio 4: 
+
+```
+
+```
+
