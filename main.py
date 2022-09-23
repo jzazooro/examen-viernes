@@ -1,11 +1,6 @@
 from clases.ejercicio1 import sumalistas
 from clases.ejercicio2 import contarelementos
 
-listauno=[1, 1, 1]
-listados=[2, 2, 2]
-listatres=[3, 3, 3]
-listacuatro=[4, 4, 4]
-
 def main():
 
     print("Ejercicio 1: ")
@@ -35,7 +30,7 @@ def main():
     print("la lista resultante al tercer enunciado es: ", c)
     d=list(range(-19, 0, 2))
     print("la lista resultante al cuarto enunciado es: ", d)
-    e=list(range(0, 50, 5))
+    e=list(range(0, 51, 5))
     print("la lista resultante al quinto enunciado es: ", e)
 
     print("Ejercicio 4: ")
