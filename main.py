@@ -10,6 +10,10 @@ listacuatro=[4, 4, 4]
 def main():
 
     print("Ejercicio 1: ")
+    listauno=[1, 1, 1]
+    listados=[2, 2, 2]
+    listatres=[3, 3, 3]
+    listacuatro=[4, 4, 4]
     sumalistas(listauno)
     print("la primera lista es: ", listauno)
     sumalistas(listados)
@@ -20,6 +24,8 @@ def main():
     print("la cuarta lista es: ", listacuatro)
 
     print("Ejercicio 2: ")
+    cadenatexto=input("escribe lo que quieras: ")
+    contarelementos(cadenatexto)
 
     print("Ejercicio 3: ")
     a=list(range(11))
