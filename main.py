@@ -1,5 +1,6 @@
-from clases.ejercicio1 import sumalistas
-from clases.ejercicio2 import contarelementos
+from ejercicio1 import sumalistas
+from ejercicio2 import contarelementos
+from ejercicio4 import tabla
 
 def main():
 
@@ -34,6 +35,7 @@ def main():
     print("la lista resultante al quinto enunciado es: ", e)
 
     print("Ejercicio 4: ")
+    tabla()
 
 if __name__=='__main__':
     main()
